@@ -1,0 +1,50 @@
+.header {
+    background-color: lightblue;
+    height: 60px;
+    padding-top: 15px;
+    font-weight: 800;
+    font-size: 23;
+    width: 100%;
+}
+
+.items {
+    width: 35%;
+    background-color: lightcoral;
+    height: 210px;
+    margin-top: -30px;
+    color: white;
+    border-radius: 15px;
+}
+
+.note {
+    font-size: 18;
+    padding: 20px
+}
+
+#size {
+    padding: -30px;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: darkgray;
+    width: 100%;
+    z-index: 12;
+}
+
+canvas{
+    background-color: lightpink;
+    margin-top: 210px;
+    margin-left: 250px;
+    z-index: 10;
+    border-radius: 15px;
+    border: 5px ridge black;
+}
+
+video{
+    margin-left: 250px;
+    
+    
+}
